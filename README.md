@@ -24,7 +24,7 @@ git clone https://github.com/your-username/wifi-cracker.git
 
 2. Navigate to the project directory:
 ```bash
-cd wifi-cracker
+cd Wifi-cracker
 ```
 
 3. Run the script:
